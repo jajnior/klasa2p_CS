@@ -1,0 +1,8 @@
+C:\2p grupa 1\konsola cz.2\bin\Debug\konsola cz.2.exe.config
+C:\2p grupa 1\konsola cz.2\bin\Debug\konsola cz.2.exe
+C:\2p grupa 1\konsola cz.2\bin\Debug\konsola cz.2.pdb
+C:\2p grupa 1\konsola cz.2\obj\Debug\konsola cz.2.csproj.AssemblyReference.cache
+C:\2p grupa 1\konsola cz.2\obj\Debug\konsola cz.2.csproj.SuggestedBindingRedirects.cache
+C:\2p grupa 1\konsola cz.2\obj\Debug\konsola cz.2.csproj.CoreCompileInputs.cache
+C:\2p grupa 1\konsola cz.2\obj\Debug\konsola cz.2.exe
+C:\2p grupa 1\konsola cz.2\obj\Debug\konsola cz.2.pdb
